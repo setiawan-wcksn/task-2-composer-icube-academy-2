@@ -1,0 +1,21 @@
+{
+    "name": "setiawan-wcksn/task-composer-akademi-batch-2",
+    "description": "coba task training composer",
+    "keywords": ["coba task training composer"],
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "setiawan\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "authors": [
+        {
+            "name": "setiawan",
+            "email": "muhamad.setiawan@mail.sirclo.com"
+        }
+    ],
+    "license": "MIT"
+}
